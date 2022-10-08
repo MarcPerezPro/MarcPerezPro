@@ -6,6 +6,11 @@
     alt="Redis Certified Developer badge"
     width="200">
   </a>
+  <a href="https://www.credly.com/badges/7cf98e24-80c9-4d71-a78a-ee49d16edca1/public_url">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+    alt="AWS Certified Cloud Practitioner badge"
+    width="200">
+  </a>
 </p>
 
 <!--
