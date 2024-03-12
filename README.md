@@ -19,7 +19,7 @@
     width="200">
   </a>
   <a href="https://www.credly.com/badges/120001c7-12c1-4411-9913-9919959f404c">
-    <img src="./assets/kubernetes-and-cloud-native-associate.png"
+    <img src="./assets/kcna-kubernetes-and-cloud-native-associate.png"
     alt="KCNA: Kubernetes and Cloud Native Associate badge"
     width="200">
   </a>
