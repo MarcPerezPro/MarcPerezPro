@@ -23,8 +23,8 @@
     <img src="./assets/redis-certified-developer.png"
     alt="Redis Certified Developer badge"
     width="200"/>
-  <a href="https://www.credly.com/badges/d8d49b0c-023d-4298-9d35-e9afe8a00575">
-    <img src="assets/hashicorp-certified-terraform-associate-003.png"
+  <a href="https://www.credly.com/badges/f7d02157-b9dd-46b1-8bab-9e9531b9977d">
+    <img src="assets/hashicorp-certified-terraform-associate-004.png"
     alt="HashiCorp Certified: Terraform Associate badge"
     width="200"/>
 </p>
